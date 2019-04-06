@@ -1,4 +1,4 @@
-# Custom Code
+# Custom Code for Lupus Clinical Clustering Project
 
 File 1: clustering_clues.R
 Contains code to perform unsupervised clustering of CLUES study data (ACR phenotypes) and compare clinical variables between clusters
